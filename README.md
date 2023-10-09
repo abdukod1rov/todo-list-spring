@@ -16,14 +16,3 @@ This is a simple RESTful API for managing tasks in a to-do list. It provides end
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-API ENDPOINTS
-GET /api/todos
-
-Add a New Task
-POST /api/todos
-
-
-Get Task by ID
-GET /api/todos/{taskId}
-
-Delete Task by ID
