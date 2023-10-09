@@ -14,7 +14,7 @@ This is a simple RESTful API for managing tasks in a to-do list. It provides end
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/abdukod1rov/todo-list-spring.git
 
 ## Documentation Swagger
 https://app.swaggerhub.com/apis-docs/ABDUKODIROVSAMANDAR3/todoapp/1.0.0#/TaskPost
